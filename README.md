@@ -6,7 +6,7 @@ PYTHON3
 
 ## Modules used
 1. Requests
-2. Beautiful soup from bs4
+2. Beautiful soup
 3. time
 4. pandas
 
