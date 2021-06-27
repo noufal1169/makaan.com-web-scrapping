@@ -23,3 +23,6 @@ PYTHON3
 ## Data Source
 web page = https://www.makaan.com/hyderabad-residential-property/buy-property-in-hyderabad-city
 
+## Contents of repository
+1. Program for web scrapping 
+2. collected data in csv file
